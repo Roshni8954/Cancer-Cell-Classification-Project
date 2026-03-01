@@ -31,10 +31,7 @@ The model successfully classifies tumors with high accuracy and demonstrates the
 Project Structure
 Cancer-Cell-Classification/
 │
-├── data/
 ├── notebook.ipynb
-├── model_training.py
-├── requirements.txt
 └── README.md
 
  How to Run the Project
